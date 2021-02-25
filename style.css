@@ -6,6 +6,11 @@
   margin: 5px;
 }
 
+header h2{
+    font-style: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 .kick-pad {
   background: rgb(81, 81, 172);
 }
